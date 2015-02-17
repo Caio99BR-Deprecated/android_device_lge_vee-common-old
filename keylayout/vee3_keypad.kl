@@ -14,8 +14,8 @@
 #
 
 # Function keys
-key 59    MENU                  WAKE
-key 60    HOME                  WAKE
+key 59    HOME                WAKE
+key 60    MENU                 WAKE
 key 61    CALL                  WAKE_DROPPED
 key 62    BACK                  WAKE_DROPPED
 key 63    ENDCALL               WAKE_DROPPED
